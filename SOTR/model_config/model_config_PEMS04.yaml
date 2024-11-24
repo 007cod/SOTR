@@ -1,0 +1,28 @@
+gcn_true: True
+buildA_true: True
+load_static_feature: False
+cl: True
+gcn_depth: 2
+num_nodes: 307
+
+dropout: 0.3
+subgraph_size: 20
+node_dim: 40
+dilation_exponential: 1
+conv_channels: 64
+residual_channels: 64
+skip_channels: 64
+end_channels: 64
+in_dim: 1
+seq_in_len: 12
+seq_out_len: 12
+layers: 2
+batch_size: 64
+learning_rate: 0.001
+weight_decay: 0.0001
+clip: 1
+step_size1: 2500
+step_size2: 100
+
+propalpha: 0.05
+tanhalpha: 3
