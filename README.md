@@ -11,6 +11,6 @@ https://github.com/Davidham3/ASTGCN-2019-mxnet
 
 # Running
 
-- ```
+ ```
   python main.py
   ```
