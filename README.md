@@ -1,5 +1,5 @@
 # Sustainability-Oriented Task Recommendation
-# prepare for data
+# Data Preparation
 
 https://github.com/Davidham3/ASTGCN-2019-mxnet
 
